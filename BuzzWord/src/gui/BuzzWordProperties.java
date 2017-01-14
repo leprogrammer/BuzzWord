@@ -1,0 +1,24 @@
+package gui;
+
+/**
+ * Created by Tejas on 11/1/2016.
+ */
+public enum BuzzWordProperties {
+    WORKSPACE_HEADING_LABEL,
+    ROOT_BORDERPANE_ID,
+    TOP_TOOLBAR_ID,
+    SEGMENTED_BUTTON_BAR,
+    HEADING_LABEL,
+
+    CREATE_ACCOUNT_TOOLTIP,
+    ACCOUNT_TOOLTIP,
+    LOGIN_TOOLTIP,
+    HELP_TOOLTIP,
+    RETURN_HOME_TOOLTIP,
+    PLAY_GAME_TOOLTIP,
+
+    RESTART_ICON,
+    PAUSE_ICON,
+    PLAY_ICON,
+    NEXT_LEVEL_ICON
+}
